@@ -1,6 +1,6 @@
 # XGNN
 Project for Advanced Machine Learning Course.  
-Comparison of XAI explainers present in pytorch_geometric for GNN networks.
+Overview and comparison of XAI explainers present in pytorch_geometric for GNN networks.
 
 ## Authors
 - [Adam Łaba](https://github.com/unlvy)
